@@ -87,14 +87,18 @@ To become a **Project Manager**, leading engineering teams, improving delivery, 
 ---
 
 ## 📊 GitHub Stats
+
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma7moud-eltantawy&layout=compact" />
+  <!-- Top Languages -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma7moud-Eltantawy&layout=compact&theme=radical" />
 </p>
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ma7moud-eltantawy&show_icons=true" />
+  <!-- Profile Stats -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ma7moud-Eltantawy&show_icons=true&theme=radical" />
 </p>
 
 <p>
-  <img height="180" src="https://streak-stats.demolab.com?user=ma7moud-eltantawy" />
+  <!-- Streak Stats -->
+  <img height="180" src="https://streak-stats.demolab.com?user=Ma7moud-Eltantawy&theme=radical" />
 </p>
