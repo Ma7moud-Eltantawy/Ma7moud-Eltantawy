@@ -1,47 +1,100 @@
 <h1 align="center">Hi 👋, I'm Mahmoud El-tantawy</h1>
-<h3 align="center">Flutter Developer & Software Manager</h3>
+<h3 align="center">Flutter Developer | Software Manager | Future Project Manager</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ma7moud-eltantawy&label=Profile%20views&color=0e75b6&style=flat" alt="ma7moud-eltantawy" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ma7moud-eltantawy&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ma7moud-eltantawy" alt="ma7moud-eltantawy" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/ma7moudeltanta3" target="blank"><img src="https://img.shields.io/twitter/follow/ma7moudeltanta3?logo=twitter&style=for-the-badge" alt="ma7moudeltanta3" /></a> </p>
+## 👨‍💻 About Me
+I’m a dedicated **Flutter Developer** with **2 years of experience** building scalable, clean, and high-performing mobile applications.
 
-- 🔬 I’m currently working on **Teba-Link**
+I focus on:
+- Clean Architecture  
+- GetX State Management  
+- Dependency Injection using GetIt  
+- Writing maintainable & testable code  
+- Problem-solving & UX-oriented development  
 
-- 👯 I’m looking to collaborate on **Flutter Developer**
+I also work as a **Software Manager**, which helped me develop:
+- Team communication  
+- Task planning  
+- Managing workflows  
+- Understanding business needs  
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mahmoud-eltantawy-7b26321b1/](https://www.linkedin.com/in/mahmoud-eltantawy-7b26321b1/)
+🎯 **Future Goal:**  
+To become a **Project Manager**, leading engineering teams, improving delivery, and optimizing project structures.
 
-- 💬 Ask me about **Flutter, Android**
+---
 
-- 📧 How to reach me **mahmoudeltantawy2019@gmail.com**
+## 🔬 Currently Working On
+- **Teba-Link** mobile apps  
+- Improving my management & leadership skills  
+- Architecting Flutter projects in a scalable way  
+- Enhancing performance, animations & UI/UX  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🤝 Looking To Collaborate On
+- Flutter projects  
+- Large-scale app architecture  
+- Technical planning  
+- Team-based mobile development  
+
+---
+
+## 💬 Ask Me About
+- Flutter • Dart  
+- Android basics  
+- GetX • GetIt • Dependency Injection  
+- PDF generation • Printing  
+- SQLite • Local caching  
+- REST APIs • Deep Links  
+- Animations & complex UI  
+
+---
+
+## 📧 Contact Me  
+**Email:** mahmoudeltantawy2019@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/mahmoud-eltantawy-7b26321b1/
+
+---
+
+## 🌐 Connect With Me
 <p align="left">
-<a href="https://twitter.com/ma7moudeltanta3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ma7moudeltanta3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahmoud eltantawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud eltantawy" height="30" width="40" /></a>
-<a href="https://instagram.com/_ma7moud_eltantawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ma7moud_eltantawy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahmoudeltantawy2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmoudeltantawy2019" height="30" width="40" /></a>
+<a href="https://twitter.com/ma7moudeltanta3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a>
+<a href="https://linkedin.com/in/mahmoud-eltantawy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
+<a href="https://instagram.com/_ma7moud_eltantawy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>
+<a href="https://www.leetcode.com/mahmoudeltantawy2019" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.database.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2772/2772138.png" alt="database" width="40" height="40"/> </a>
+---
+
+## 🛠️ Languages & Tools
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ma7moud-eltantawy&show_icons=true&locale=en&layout=compact" alt="ma7moud-eltantawy" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ma7moud-eltantawy&show_icons=true&locale=en" alt="ma7moud-eltantawy" /></p>
+## 📊 GitHub Stats
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma7moud-eltantawy&layout=compact&theme=tokyonight"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ma7moud-eltantawy&" alt="ma7moud-eltantawy" /></p>
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ma7moud-eltantawy&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ma7moud-eltantawy&theme=tokyonight"/>
+</p>
