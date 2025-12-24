@@ -70,7 +70,7 @@ https://www.linkedin.com/in/mahmoud-eltantawy-7b26321b1/
 <a href="https://twitter.com/ma7moudeltanta3" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
 </a>
-<a href="https://linkedin.com/in/mahmoud-eltantawy" target="_blank">
+<a href="[https://linkedin.com/in/mahmoud-eltantawy](https://www.linkedin.com/in/mahmoud-eltantawy-7b26321b1/)" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
 </a>
 <a href="https://instagram.com/_ma7moud_eltantawy" target="_blank">
