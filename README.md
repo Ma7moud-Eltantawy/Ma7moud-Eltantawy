@@ -1,8 +1,12 @@
 <div align="center">
 
   # 👨‍💻 Mahmoud El-Tantawy (محمود الطنطاوي)
-  ### **Software Engineer | Flutter & Mobile Architecture | API Gateway Specialist (APISIX & Keycloak)**
   
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0071E3&center=true&vCenter=true&width=550&lines=Flutter+%26+Mobile+Architect;API+Gateway+Specialist+(APISIX+%26+Keycloak);Clean+Architecture+%26+SOLID+Principles;Fintech+NFC+%26+POS+Direct+SQL" alt="Typing SVG" />
+  </a>
+  <br/>
+
   [![Profile views](https://komarev.com/ghpvc/?username=Ma7moud-Eltantawy&label=Profile%20Views&color=0071e3&style=flat-square)](https://github.com/Ma7moud-Eltantawy)
   [![Portfolio](https://img.shields.io/badge/Live_Portfolio-0071E3?style=flat-square&logo=google-chrome&logoColor=white)](https://ma7moud-eltantawy.github.io/mahmoud_eltantawy_portfolio/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-eltantawy-7b26321b1/)
@@ -31,7 +35,7 @@ Results-driven **Software Engineer** with **3+ years of professional experience*
 | **API Gateway & Security** | `Apache APISIX`, `Keycloak IAM`, `OAuth2 / OIDC`, `JWT Token Rotation`, `Swagger / OpenAPI` |
 | **Backend & Databases** | `Node.js`, `Express`, `Direct SQL Server Socket`, `SQLite`, `Firebase`, `WebSockets` |
 | **Fintech & Hardware** | `NearPay NFC SDK`, `SADAD`, `Adapter Pattern`, `Thermal ESC/POS Printing`, `QR Attendance Engine` |
-| **DevOps & Delivery** | `Shorebird CodePush (OTA)`, `GitHub Actions`, `Fastlane`, `Codemagic`, `Docker basics` |
+| **DevOps & Delivery** | `Shorebird CodePush (OTA)`, `GitHub Actions`, `Fastlane`, `Codemagic` |
 
 ---
 
@@ -54,11 +58,10 @@ Results-driven **Software Engineer** with **3+ years of professional experience*
 
 ---
 
-### 📊 GitHub Analytics & Activity
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ma7moud-Eltantawy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma7moud-Eltantawy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ma7moud-Eltantawy&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <div align="center">
