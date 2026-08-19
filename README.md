@@ -1,109 +1,90 @@
-<h1 align="center">Hi 👋, I'm Mahmoud El-tantawy</h1>
-<h3 align="center">Flutter Developer | Software Manager | Aspiring Project Manager</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ma7moud-eltantawy&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
+  # 👨‍💻 Mahmoud El-Tantawy (محمود الطنطاوي)
+  ### **Software Engineer | Flutter & Mobile Architecture | API Gateway Specialist (APISIX & Keycloak)**
+  
+  [![Profile views](https://komarev.com/ghpvc/?username=Ma7moud-Eltantawy&label=Profile%20Views&color=0071e3&style=flat-square)](https://github.com/Ma7moud-Eltantawy)
+  [![Portfolio](https://img.shields.io/badge/Live_Portfolio-0071E3?style=flat-square&logo=google-chrome&logoColor=white)](https://ma7moud-eltantawy.github.io/mahmoud_eltantawy_portfolio/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-eltantawy-7b26321b1/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudeltantawy2019@gmail.com)
+  [![Location](https://img.shields.io/badge/Location-Saudi%20Arabia%20%7C%20Egypt-10B981?style=flat-square&logo=google-maps&logoColor=white)](#)
 
----
-
-## 👨‍💻 About Me
-I’m a passionate **Flutter Developer** with **2+ years of experience** building scalable, clean, and high-performance mobile applications.
-
-I specialize in:
-- Clean Architecture & SOLID principles  
-- State Management (GetX, BLoC, Provider)  
-- Dependency Injection using GetIt  
-- Writing maintainable, testable, and scalable code  
-- Performance optimization & complex UI handling  
-
-Alongside development, I work as a **Software Manager**, which strengthened my skills in:
-- Team leadership & communication  
-- Task planning & workflow management  
-- Translating business requirements into technical solutions  
-
-🎯 **Future Goal:**  
-To become a **Project Manager**, leading engineering teams, improving delivery quality, and building efficient project structures.
+</div>
 
 ---
 
-## 🔬 Currently Working On
-- **Teba-Link** mobile applications  
-- Architecting large-scale Flutter projects  
-- Improving CI/CD pipelines for mobile apps  
-- Enhancing animations, performance & UX  
+### 🚀 About Me
+
+Results-driven **Software Engineer** with **3+ years of professional experience** architecting high-performance cross-platform mobile applications and enterprise cloud infrastructure across **Saudi Arabia and Egypt**.
+
+- 📱 **Mobile Engineering:** Expert in **Flutter & Dart**, Clean Architecture, State Management (BLoC, Provider, GetX), and Offline-First Sync Engines.
+- 🌐 **API Gateway & Cloud Infrastructure:** Specialist in **Apache APISIX**, route topology orchestration, **Keycloak IAM** token lifecycle/introspection, and tenant-isolated microservices (`X-Consumer`).
+- 💳 **Fintech & Hardware:** Hands-on experience integrating **NearPay NFC SDK (Tap-to-phone)**, 3DS payment webhooks, thermal receipt printing (ESC/POS), and direct socket connections to **SQL Server** (<1ms latency).
 
 ---
 
-## 🤝 Looking To Collaborate On
-- Flutter & cross-platform mobile projects  
-- Large-scale app architecture  
-- Technical planning & system design  
-- Team-based mobile development  
+### 🛠️ Technical Ecosystem & Stack
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Mobile Development** | `Flutter`, `Dart`, `BLoC`, `Provider`, `GetX`, `GetIt`, `Clean Architecture`, `Pixel-Perfect UI/UX` |
+| **API Gateway & Security** | `Apache APISIX`, `Keycloak IAM`, `OAuth2 / OIDC`, `JWT Token Rotation`, `Swagger / OpenAPI` |
+| **Backend & Databases** | `Node.js`, `Express`, `Direct SQL Server Socket`, `SQLite`, `Firebase`, `WebSockets` |
+| **Fintech & Hardware** | `NearPay NFC SDK`, `SADAD`, `Adapter Pattern`, `Thermal ESC/POS Printing`, `QR Attendance Engine` |
+| **DevOps & Delivery** | `Shorebird CodePush (OTA)`, `GitHub Actions`, `Fastlane`, `Codemagic`, `Docker basics` |
 
 ---
 
-## 💬 Ask Me About
-- Flutter • Dart  
-- Android basics  
-- GetX • GetIt • Dependency Injection  
-- **BLoC • Provider (State Management)**  
-- Node.js (Backend basics & APIs)  
-- CI/CD for mobile apps  
-- CodePush & Shorebird (OTA updates)  
-- PDF generation • Printing  
-- SQLite • SQL Server • Local caching  
-- REST APIs • Deep Links  
-- Animations & complex UI  
+### 🌟 Featured Production Projects & Systems
+
+- 🌐 **[Qiyasi API Gateway & Microservices Platform](https://github.com/Ma7moud-Eltantawy)**  
+  *Enterprise microservices management layer using Apache APISIX & Keycloak. Managed route proxies, rate limiting, and automated X-Consumer tenant header injection.*
+  
+- 💳 **[Saaed Pay (Fintech & NFC Payments)](https://github.com/Ma7moud-Eltantawy)**  
+  *Saudi digital payment application featuring NearPay NFC Tap-on-phone, digital wallet, and 3DS transaction state machines.*
+
+- ⚡ **[Ezee Restaurant POS (Direct SQL Server Engine)](https://github.com/Ma7moud-Eltantawy)**  
+  *Zero-latency POS application connecting Flutter directly to SQL Server socket protocols for sub-millisecond queries and offline reliability.*
+
+- 🏢 **[Ezee Manager Pro & Tebalink ERP](https://github.com/Ma7moud-Eltantawy)**  
+  *Multi-tenant enterprise ERP with background offline SQLite queue synchronization, thermal receipt printing, and custom tax invoice engines.*
+
+- 👔 **[ALFAKHRA Men's Tailoring App](https://github.com/Ma7moud-Eltantawy)**  
+  *Transformed Saudi premium fashion app from native to a unified Flutter architecture with custom measurement profiles and fabric configurators.*
 
 ---
 
-## 📧 Contact Me  
-**Email:** mahmoudeltantawy2019@gmail.com  
-**LinkedIn:**  
-https://www.linkedin.com/in/mahmoud-eltantawy-7b26321b1/
+### 📊 GitHub Analytics & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ma7moud-Eltantawy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma7moud-Eltantawy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ma7moud-Eltantawy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://twitter.com/ma7moudeltanta3" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
-</a>
-<a href="https://www.linkedin.com/in/mahmoud-eltantawy-7b26321b1/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-</a>
-<a href="https://instagram.com/_ma7moud_eltantawy" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-</a>
-<a href="https://www.leetcode.com/mahmoudeltantawy2019" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
-</a>
-</p>
+### 💬 Let's Connect & Collaborate
+
+<div align="left">
+  <a href="mailto:mahmoudeltantawy2019@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoud-eltantawy-7b26321b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/_ma7moud_eltantawy">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://leetcode.com/u/mahmoudeltantawy2019/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</div>
 
 ---
-
-## 🛠️ Languages & Tools
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma7moud-Eltantawy&layout=compact&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ma7moud-Eltantawy&show_icons=true&theme=radical" />
-
-<img src="https://streak-stats.demolab.com?user=Ma7moud-Eltantawy&theme=radical" />
+<div align="center">
+  <sub>Designed & Engineered with ❤️ by <b>Mahmoud El-Tantawy</b></sub>
+</div>
