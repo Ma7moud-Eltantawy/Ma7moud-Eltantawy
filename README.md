@@ -8,7 +8,7 @@
 
 📍 Al Khobar, Saudi Arabia · 💼 Software Engineer at Dolf Technologies
 
-<img src="https://komarev.com/ghpvc/?username=ma7moud-eltantawy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://hits.sh/github.com/Ma7moud-Eltantawy.svg?label=Profile%20Views&color=0e75b6" alt="Profile views" />
 
 </div>
 
