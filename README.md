@@ -8,7 +8,7 @@
 
 📍 Al Khobar, Saudi Arabia · 💼 Software Engineer at Dolf Technologies
 
-<img src="https://komarev.com/ghpvc/?username=Ma7moud-Eltantawy&color=1f3a5f&style=flat&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ma7moud-eltantawy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
@@ -64,7 +64,7 @@ Flutter Developer and Software Engineer with nearly 3 years of professional expe
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ma7moud-Eltantawy&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+<img width="95%" src="https://ghchart.rshah.org/1f6feb/Ma7moud-Eltantawy" alt="Contribution graph" />
 
 </div>
 
